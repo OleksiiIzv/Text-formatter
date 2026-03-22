@@ -11,14 +11,14 @@ Example commands:
 An example of how the utility works:
 
 Input:
-.HE "Page #"
-.CE 3
-This text is centered
-.SP 2
-Hello, world!
+*.HE "Page #"
+*.CE 3
+*This text is centered
+*.SP 2
+*Hello, world!
 
 Output:
-Page 1
+*Page 1
 
                    This text is centered
 
