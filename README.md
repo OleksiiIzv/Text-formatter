@@ -18,6 +18,7 @@ A `.mak` file is used to build the program.
 This text is centered
 .SP 2
 Hello, world!
+```
 
 **Output:**
 ```text
@@ -28,3 +29,4 @@ Page 1
 
 
                        Hello, world!
+```
